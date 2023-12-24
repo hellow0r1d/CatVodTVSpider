@@ -15,9 +15,9 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Author: Fly
+ * Author: Panda
  */
-public class Fly extends Spider {
+public class Panda extends Spider {
 
     private String siteUrl = "http://192.168.0.1";
     private String extString = "";
