@@ -21,7 +21,7 @@ import java.util.Set;
  */
 public class Enlienli extends Spider {
 
-    private String siteUrl = "http://192.168.0.2";
+    private String siteUrl = "http://192.168.0.1";
 
     @Override
     public void init(Context context) {
