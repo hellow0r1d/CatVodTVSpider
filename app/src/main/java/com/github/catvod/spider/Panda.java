@@ -19,7 +19,7 @@ import java.util.Set;
  */
 public class Fly extends Spider {
 
-    private String siteUrl = "http://127.0.0.1";
+    private String siteUrl = "http://192.168.0.1";
     private String extString = "";
 
     @Override

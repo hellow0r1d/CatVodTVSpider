@@ -32,8 +32,8 @@ import java.util.regex.Pattern;
  * Author: CatVod
  */
 public class Aidi extends Spider {
-    private static final String siteUrl = "http://127.0.0.1";
-    private static final String siteHost = "127.0.0.1";
+    private static final String siteUrl = "http://192.168.0.1";
+    private static final String siteHost = "192.168.0.1";
 
     /**
      * 播放源配置
