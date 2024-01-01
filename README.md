@@ -1,18 +1,3 @@
-# 猫影视TV客户端爬虫自定义接口工程
-
-```
-思维没有边界 一切皆有可能
-```
-:rocket:[**TG交流群**](https://t.me/catvodtv_offical)
-
-本工程最终食用需配合 猫影视TV新版（一下简称为软件） **v2.0.0**及以上版本。
-
-![logo](app/src/main/res/drawable-xhdpi/app_icon.png)
-
-### 欢迎各路大佬踊跃提PR，分享爬虫代码。
-
-### 这里是用户分享的爬虫代码打包的共享包，可以配合自定义配置，直接食用 [custom_spider.jar](/jar/)
-
 ## 快速开始
 ----
 本工程是一个完整的AndroidStudio工程，请你用AS打开编辑。 
