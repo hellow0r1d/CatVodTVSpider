@@ -17,7 +17,7 @@ import java.util.Set;
 /**
  * Author: Panda
  */
-public class Panda extends Spider {
+public class ApiJson extends Spider {
 
     private String siteUrl = "http://127.0.0.1";
     private String extString = "";
