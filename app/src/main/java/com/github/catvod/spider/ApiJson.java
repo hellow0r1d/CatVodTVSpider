@@ -38,7 +38,7 @@ public class ApiJson extends Spider {
     @Override
     public String homeContent(boolean filter) {
         try {
-            JSONObject jsonObject = new JSONObject(OkHttpUtil.string(siteUrl + "/home_nav", getHeaders(siteUrl)));
+            JSONObject jsonObject = new JSONObject(OkHttpUtil.string(siteUrl + "/home_nav.json", getHeaders(siteUrl)));
 
             // JSONObject result = new JSONObject();
 
